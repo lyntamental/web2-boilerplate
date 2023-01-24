@@ -1,5 +1,10 @@
 # Web Design 2 Boilerplate
 
+<a 
+href="https://app.netlify.com/start/deploy?repository=https://github.com/lyntamental/web2-boilerplate">
+<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify">
+</a>
+
 > Computers need humans to make them smart.  For now. 
 
 ## Why does this exist? 
