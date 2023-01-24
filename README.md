@@ -8,5 +8,4 @@
 * I'm a human being that makes mistakes (frequently). 
 * I'm also supremely lazy. 
 
-<<<<<<< HEAD
 ![colin told me to add this green square with the iOS fire emoji that says "Web 2"](Colins_Image.webp)
